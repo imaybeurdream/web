@@ -1,0 +1,14 @@
+header {
+    background-image: linear-gradient(to top, rgba(12, 15, 184, 0.86), rgba(0, 0, 0, 0.472)), url(images/락앤롤.png);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    p{font-family:'Rubik Bubbles',serif; font-size: 150px;}
+   h1,h2{font-family:'Rubik Scribble', serif;font-weight: bold;}
+   a{font-family:'Noto Sans',serif;}
+}
+
+
+body{
+    font-family:'Rubik Scribble', serif; 
+}

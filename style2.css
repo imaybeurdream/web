@@ -1,0 +1,23 @@
+
+p{font-family:'Noto sans KR',serif;}
+h1{font-family:'Rubik Scribble', serif;font-weight: bold;}
+
+nav{font-family:'Noto Sans', serif;font-weight: bold; color: #000;}
+div{
+    font-family:'Noto Sans KR', serif;}
+
+#fiber{ background-image: url(images/fiber.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;}
+
+    #ceramic{
+        background-image: url(images/ceramic.jpg);
+        background-size: cover;
+        background-position: center top;
+        background-attachment: fixed;}
+
+        #digital{ background-image: url(images/digital.jpg);
+            background-size: cover;
+            background-position: center top;
+            background-attachment: fixed;}
